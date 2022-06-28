@@ -1,11 +1,18 @@
+<p align="center">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=typescript&style=for-the-badge&logo=typescript"/>
+</p>
+
+<h1>TypeScript - exemplos e casos de uso</h1>
+
+<img alt="DIO logo" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" width=150 align=right>
+
+Exercícios de typescript, entregues como requisito para conclusão do bootcamp **Fullstack Developer** da [DIO](https://dio.me/sign-up?ref=B4LLE4R5RE).
 
 
-O objetivo desse repositório é mostrar exemplos e desafios de typescript que vão dar uma noção geral suficiente da ferramenta para que ela seja usada no dia a dia do desenvolvedor.
-  
-Para quem é esse repositório:   
-* Pessoas que tem vontade de aprender javascript aplicando boas práticas desde o início  
-* Pessoas que já usam javascript e querem desaprender hábitos negativos da linguagem   
-* Quem já teve dor de cabeça com javascript e tem um trauma a ser curado   
+![](https://img.shields.io/badge/feito%20com%20%E2%9D%A4%20por-jaac-cyan)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonasaacampos)
+
+------
 
 ## O que é o Typescript
 É um superset do typescript que trás tipagem estática para a linguagem, além de outras features, com o propósito de melhorar a qualidade do código escrito e a sua usabilidade. Como é um superset o código compilado e usado em produção ainda é javascript, porém é um JS mais resiliente e turbinado graças ao uso de TS durante o desenvolvimento.
@@ -21,9 +28,6 @@ Ferramentas necessárias:
 Requisitos técnicos:  
 * Lógica de programação
 * Mas é melhor ainda se tiver um conhecimento básico de javascript  
-
-## Sobre a estrutura de commits  
-Os commits foram feitos de tal forma que o usuário pode ler commit a commit em ordem de publicação e acompanhar gradualmente a criação do repositório e a lógica aplicada. É recomendado que o primeiro estudo seja feito dessa forma. Pequenos erros nos comentários ou de gramática podem ser encontrados no caminho (consequências do programador que estuda de madrugada), mas eles já foram devidamente corrigidos na última versão da main.
 
 ## Estrutura do repositório 
 * *src* 
@@ -85,5 +89,20 @@ Caso queira fazer testes usando html é só alterar o index.html.
             * Levanta um erro caso uma função tenha caminhos que retornam valor e outros que não retornam
     4. Existem outras regras e explicações mais elaboradas na documentação oficial (https://www.typescriptlang.org/tsconfig)
    
-## Sobre colaboração 
-Sinta-se livre para abrir pull requests com melhorias para ajudar quem quiser aprender mais sobre Typescript. Também podem tirar dúvidas comigo via comentário.
+
+-----------
+
+## Contato
+
+**Author:** Jonas Araujo de Avila Campos
+
+**Confira mais projetos: [AQUI](https://github.com/jonasaacampos)**
+
+<p align='center'>
+  <a href='https://github.com/jonasaacampos'>
+    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
+  </a>
+  <a href='https://www.linkedin.com/in/jonasaacampos/'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+  </a>
+</p>
